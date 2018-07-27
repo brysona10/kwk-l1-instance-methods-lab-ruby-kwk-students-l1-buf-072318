@@ -5,6 +5,6 @@ class Dog
     @name = name
   end
   def barks 
-    @n = 
+end
     
 end
